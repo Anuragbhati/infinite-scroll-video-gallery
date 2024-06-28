@@ -12,7 +12,7 @@ A React application that displays a gallery of videos with an infinite scroll fe
 
 ## Demo
 
-Check out the live demo [here](http://your-demo-link.com).
+Check out the live demo [here](https://infinite-scroll-video-gallery.vercel.app/).
 
 ## Getting Started
 
